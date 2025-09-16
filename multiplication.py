@@ -6,7 +6,7 @@ from cs50 import SQL
 # I've used additional materials from: https://mastergroosha.github.io/telegram-tutorial/docs/lesson_01/ , https://mastergroosha.github.io/telegram-tutorial/docs/lesson_02/
 
 
-bot = telebot.TeleBot("6100918491:AAEHz3NoS9bSgyT5YuKKllO0MoiI1RCOvYE")
+bot = telebot.TeleBot("XXX")
 
 db = SQL("sqlite:///mathbot.db")
 

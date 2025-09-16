@@ -8,7 +8,7 @@ from cs50 import SQL
 
 bot = telebot.TeleBot("XXX")
 
-db = SQL("sqlite:///mathbot.db")
+db = SQL("sqlite:///XXX.db")
 
 def define_task():
 	x = random.randint(2, 9)
